@@ -1,0 +1,35 @@
+.withdraw-body{
+
+    position: absolute;
+    height: 80%;
+    width: 55%;
+    right: 5%;
+    top: 15%;
+}
+
+.bodyText{
+    position: relative;
+    left: 30%;
+    font-size: 5vw;
+    top: 10%;
+}
+
+.bodyTextTwo{
+    position: relative;
+    left: 5%;
+    font-size: 4.5vw;
+    white-space: nowrap;
+    top: 10%;
+}
+
+.number{
+    color: #f5cccc;
+    position: relative;
+    left: 40%;
+    top: 10%;
+}
+
+.number span{
+    color: grey;
+    font-size: 1.5vw;
+}

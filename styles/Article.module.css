@@ -1,0 +1,71 @@
+.article-border{
+    width: 30%;
+    justify-content: center;
+    height:3px;
+    background-color: black;
+    left: 30%;
+    position: relative;
+}
+
+.title{
+    padding-top:20px;
+    font-size: 35px;
+    left: 2%;
+    position: absolute;
+}
+
+.content{
+    padding-top:10px;
+    font-size: 20px;
+    left: 2%;
+    position: absolute;
+    color: grey;
+    width: 60%;
+    top: 40%;
+}
+
+.article-body{
+    width: 75%;
+    height: 300px;
+    position: relative;
+}
+
+.image{
+    position: absolute;
+    right : 30px;
+    top: 25%;
+
+}
+
+.statistics{
+    color: grey;
+    /* background-color: red; */
+    position: absolute;
+    bottom: 10px;
+    width: 50%;
+    left: 2%;
+}
+
+.contributor-button{
+    background-color: #f5cccc;
+    color: white;
+    border-color: white;
+    border: 2px solid white;
+    border-radius: 10%;
+    width: 80px;
+}
+
+.likes-button{
+    background-color: white;
+    color: white;
+    border-color: white;
+    border: 2px solid white;
+    position: relative;
+    top: 2.5px;
+    right: 15px;
+}
+
+.statistics h3{
+    font-size: 20px;
+}
+

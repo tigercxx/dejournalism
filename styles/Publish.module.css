@@ -1,0 +1,63 @@
+
+
+.wrapper{
+    width: 80%;
+    position: relative;
+    left: 10%;
+    height: 1200px;
+    top: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.add-button{
+    width: 100%;
+    background-color: #f5cccc;
+    box-shadow: #f5cccc;
+    margin-bottom: 20px;
+}
+
+.add-button:hover, .add-button:active{
+    background-color: white;
+    color: #f5cccc;    
+    box-shadow: #f5cccc;
+}
+
+.formWrapper{
+    box-shadow: 10px 10px 10px 10px;
+    border-radius: 25px;
+    padding: 100px 200px 10px 200px;
+    width: 1000px;
+    position: relative;
+    overflow-y:scroll;
+}
+
+.submit{
+    background-color:#f5cccc;
+    box-shadow: #f5cccc;
+}
+
+.submit:hover, .submit:active{
+    background-color: white;
+    color: #f5cccc;
+}
+
+.minus-button{
+    width: 40px;
+    height: 40px;
+    background-color: #f5cccc;
+    top: 0px;
+    position: relative;
+}
+
+.minus-button:hover{
+    color: #f5cccc;
+    background-color:white;
+}
+
+.error{
+    background-color: red;
+}

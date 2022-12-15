@@ -1,0 +1,41 @@
+.profileBody{
+    position: absolute;
+    top: 50px;
+    right: 50%;
+    top: 15%;
+}
+
+.section{
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+}
+
+
+.profile-pic{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.profile-bio{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 100%;
+}
+
+.profile-bio h3{
+    color: grey !important;
+    top: 80%;
+    position: absolute;
+    font-weight: 70;
+}
+
+.description{
+    position: absolute;
+    left:10%;;
+    top: 40%;
+    color: black;
+    width: 80%;
+}
+

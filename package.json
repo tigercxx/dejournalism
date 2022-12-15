@@ -1,0 +1,44 @@
+{
+  "name": "journalist-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.11.12",
+    "@types/react": "18.0.26",
+    "@types/react-dom": "18.0.9",
+    "bootstrap": "^5.2.3",
+    "bulma": "^0.9.4",
+    "bulma-helpers": "^0.4.3",
+    "eslint": "8.29.0",
+    "eslint-config-next": "13.0.6",
+    "material-design-icons": "^3.0.1",
+    "mgr-pdf-viewer-react": "^1.0.3",
+    "next": "13.0.6",
+    "pdf-viewer-reactjs": "^2.2.3",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-document-meta": "^3.0.0-beta.2",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.40.0",
+    "react-pdf": "^6.2.0",
+    "react-router-dom": "^5.3.4",
+    "typescript": "4.9.4",
+    "@metaplex-foundation/js": "^0.17.9",
+    "@solana/wallet-adapter-react": "^0.15.25",
+    "@solana/wallet-adapter-react-ui": "^0.9.23",
+    "@solana/wallet-adapter-wallets": "^0.19.8",
+    "@solana/web3.js": "^1.70.1",
+    "bs58": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/pdf-viewer-reactjs": "^2.2.2",
+    "@types/react-document-meta": "^3.0.2",
+    "file-loader": "^6.2.0"
+  }
+}

@@ -1,0 +1,56 @@
+.menu{
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    top: 9.2%;
+    left: 0;
+    width: 35%;
+    height: 100%;
+    border-right: solid 1px black
+
+}
+
+/* {height:"100%", backgroundColor:"white", position:"absolute", top: "9.5%", right: "0", width: "38%", height:"100%"} */
+
+.profileBody{
+    position: absolute;
+    top: 50px;
+    left: 15%;
+    top: 10%;
+}
+
+.profile-pic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.profile-name{
+    position: absolute;
+    top: 28%;
+    left: 10%;
+    font-size: 3vw;
+}
+
+.links-menu{
+    position: absolute;
+    left: 3.5%;
+    top: 45%;
+    color: black;
+    list-style: none;
+    align-items: left;
+    font-size: 2vw;
+
+}
+
+.links-menu li{
+    margin: 25px 0;
+}
+
+.indivlink, .indivlink:active, .indivlink.active{
+    color: #f5cccc;
+}
+
+.active{
+    color: #f5cccc;
+}
